@@ -3,7 +3,7 @@ Build a list/detail application in AngularJs (angular 1)
 
 The list view should list cars by model/year/price. Clicking on a car model should bring the detail view for the car 
 which should include additional details like description and image. Clicking the back button in detail view should
-navigate back to list view.
+navigate back to list view. Please use in code comment to explain your coding styles/choices.
 
 Use your knowledge of Angular MVC 
 Model - service to provide data, add http calls to json data files for extra credit. if not hard code data in service
