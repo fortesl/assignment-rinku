@@ -9,3 +9,5 @@ Use your knowledge of Angular MVC
 Model - service to provide data, add http calls to json data files for extra credit. if not hard code data in service
 View - HTML, CSS, angular directives
 Controller - serve data to bind to view elements
+
+Fork the project, add your code, and submit via pull request.
